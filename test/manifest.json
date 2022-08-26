@@ -1,6 +1,6 @@
 
 {
-  "name": "HoneyHunter For ESP32",
+  "name": "Blink",
   "version": "1.0",
   "builds": [
     {
