@@ -1,16 +1,14 @@
+
 {
-  "name": "Blink",
+  "name": "HoneyHunter For ESP32",
   "version": "1.0",
   "builds": [
     {
       "chipFamily": "ESP32",
-      "improv": false,
-      "parts": [
-        { "path": "bootloader_dio_40m.bin", "offset": 4096 },
-        { "path": "partitions.bin", "offset": 32768 },
-        { "path": "boot_app0", "offset": 	57344 },
-        { "path": "firmware.bin", "offset": 65536 }
-      ]
+      "parts": [{ "path": "bootloader_dio_40m.bin", "offset": 4096 },
+                { "path": "partitions.bin", "offset": 32768 },
+                { "path": "boot_app0.bin", "offset": 57344 },
+                { "path": "firmware.bin", "offset": 65536 }]
     }
   ]
 }
