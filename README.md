@@ -102,7 +102,7 @@ NOTE: Only the bin files under the temporary Arduino folder will change when you
 
 ### For Platformio
 
-[This is untested by me, but it looks right](https://community.platformio.org/t/export-of-binary-firmware-files-for-esp32-download-tool/9253/2)
+[Click for details](https://community.platformio.org/t/export-of-binary-firmware-files-for-esp32-download-tool/9253/2)
 
 ## Updating the manifest and adding files
 
