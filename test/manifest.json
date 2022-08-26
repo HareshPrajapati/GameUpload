@@ -1,5 +1,6 @@
 {
   "name": "Blink",
+  "version": "1.0",
   "builds": [
     {
       "chipFamily": "ESP32",
