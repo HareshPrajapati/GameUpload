@@ -1,5 +1,5 @@
 
-# Esp Upload Tutorial
+# TTGO Display (Esp32 based) Game Upload Tutorial
 A guide for setting up flashing your ESP projects directly from your browser
 
 [ESP-Web-Tools](https://esphome.github.io/esp-web-tools/) allows your to flash your ESP directly from your browser using [Web Serial API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Serial_API). This repo will provide the instructions needed to get this up and running.
