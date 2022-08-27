@@ -1,5 +1,5 @@
 {
-  "name": "Blink For ESP32",
+  "name": "Game For TTGO T1 Display",
   "version": "1.0",
   "builds": [
     {
