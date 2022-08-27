@@ -48,7 +48,7 @@ And that's it! when you visit *USER_NAME*.github.io/*REPO_NAME* you should see y
     {
       "chipFamily": "ESP32",
       "improv": false,
-      "parts": [{ "path": "bootloader_dio_40m.bin", "offset": 4096 },
+      "parts": [{ "path": "bootloader.bin", "offset": 4096 },
                 { "path": "partitions.bin", "offset": 32768 },
                 { "path": "boot_app0.bin", "offset": 57344 },
                 { "path": "firmware.bin", "offset": 65536 }]
